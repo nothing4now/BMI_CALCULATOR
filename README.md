@@ -1,10 +1,10 @@
-AUTHOR
+## AUTHOR
 Yusuf Yusuf - [GitHub Profile] (https://github.com/nothing4now)
 <br>
 Hajara Musa - [GitHub Profile] (https://github.com/Hajaramusa-yusuf)
 
 
-# BMI Calculator
+## BMI Calculator
 
 This is a simple BMI (Body Mass Index) calculator web application. It allows users to calculate their BMI based on their weight and height inputs and provides an interpretation of the BMI result.
 
